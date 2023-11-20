@@ -1,1 +1,1 @@
-# NMPC_casadi
+# nonlinear mpc using casadi
